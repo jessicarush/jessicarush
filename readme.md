@@ -1,15 +1,16 @@
-### :wave: Hello:
+### :wave: Hello, I'm Jessica Rush
 
-I'm Jessica Rush, a Full-Stack Developer at 13 Down Software.
-
+:bust_in_silhouette: Current role: Full-Stack Developer at 13 Down Software  
 :star: Currently working on: Missionloops  
 :seedling: Currently learning: React  
 :round_pushpin: Next up: NextJS  
-:space_invader: In my free time: I don't often code, for me it's important to pursue a wide variety of interests and activities  
+:space_invader: In my free time: I don't often code, for me it's important to pursue a wide variety of interests and activities.  
 :envelope: How to reach me: jessica@13down.io  
 :orange_book: Fun fact: You won't find me on social media, I opted out.  
 
-### :wrench: Languages and Tools:
+-----
+
+:wrench: Languages and Tools:
 
 <div>
   <img src="icons/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,7 +45,9 @@ I'm Jessica Rush, a Full-Stack Developer at 13 Down Software.
   <img src="icons/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: Github stats:
+-----
+
+:fire: Github stats:
 
  most used languages widget?
 
