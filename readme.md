@@ -49,11 +49,10 @@
 
 :fire: Github stats:
 
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicarush&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=default&langs_count=4&theme=dark&bg_color=22272E)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 
