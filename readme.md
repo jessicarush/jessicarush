@@ -50,7 +50,17 @@
 :fire: Github stats:
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats --> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E00&border=444c56&ring=00CED1#gh-dark-mode-only)](https://git.io/streak-stats) <!-- https://github.com/anuraghazra/github-readme-stats --> &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=dark&bg_color=22272E00&border_color=444c56#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E00&border=444c56&ring=00CED1)">
+    <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=eeeeee&border=444c56&ring=00CED1)">
+  </picture>
+</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E00&border=444c56&ring=00CED1)](https://git.io/streak-stats) 
+
+<!-- https://github.com/anuraghazra/github-readme-stats --> &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=dark&bg_color=22272E00&border_color=444c56)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=jessicarush&color=00CED1)
