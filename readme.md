@@ -1,6 +1,6 @@
 ### :wave: Hello, I'm Jessica Rush
 
-:bust_in_silhouette: Current role: Full-Stack Developer at 13 Down Software  
+:bust_in_silhouette: Current role: Full-Stack Developer at [13 Down Software](https://github.com/13Down)  
 :star: Current project: Missionloops  
 :seedling: Currently learning: React  
 :round_pushpin: Next up: NextJS  
