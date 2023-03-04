@@ -53,15 +53,15 @@
 <a href="https://git.io/streak-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E00&border=444c56&ring=00CED1">
-    <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=eeeeee&border=444c56&ring=00CED1">
+    <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=default&border=d0d7de&ring=00CED1">
   </picture>
-</a>
+</a>&nbsp;
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=dark&bg_color=22272E00&border_color=444c56">
-    <img alt="GitHub Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=dark&bg_color=eeeeee&border_color=444c56">
+    <img alt="GitHub Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=default&border_color=d0d7de">
   </picture>
 </a>
 
