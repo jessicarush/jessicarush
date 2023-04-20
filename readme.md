@@ -50,12 +50,12 @@
 :fire: Github stats:
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats --> 
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=dark&background=22272E00&border=444c56&ring=00CED1">
     <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jessicarush&theme=default&border=d0d7de&ring=00CED1">
   </picture>
-</a>&nbsp;
+</a>&nbsp; -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
