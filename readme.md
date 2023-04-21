@@ -2,8 +2,8 @@
 
 :bust_in_silhouette: Current role: Full-Stack Developer at 13 Down Software  
 :star: Current project: Missionloops  
-:seedling: Currently learning: React  
-:round_pushpin: Next up: NextJS  
+:seedling: Currently learning: Next.js  
+:round_pushpin: Next up: Typescript  
 :space_invader: In my free time: I don't often code, for me it's important to pursue a wide variety of interests and activities.  
 :envelope: How to reach me: jessica@13down.io  
 :orange_book: Fun fact: You won't find me on social media, I opted out.  
@@ -47,7 +47,7 @@
 
 -----
 
-:fire: Github stats:
+<!-- :fire: Github stats: -->
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats --> 
 <!-- <a href="https://git.io/streak-stats">
@@ -58,12 +58,12 @@
 </a>&nbsp; -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=dark&bg_color=22272E00&border_color=444c56">
     <img alt="GitHub Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarush&layout=compact&langs_count=4&theme=default&border_color=d0d7de">
   </picture>
-</a>
+</a> -->
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=jessicarush&color=00CED1)
