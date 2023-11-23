@@ -2,8 +2,8 @@
 
 :bust_in_silhouette: Current role: Full-Stack Developer at 13 Down Software  
 :star: Current project: Missionloops  
-:seedling: Currently learning: Next.js  
-:round_pushpin: Next up: Typescript  
+:seedling: Currently learning: Typescript
+:round_pushpin: Next up: auth in Next.js
 :space_invader: In my free time: I don't often code, for me it's important to pursue a wide variety of interests and activities.  
 :envelope: How to reach me: jessica@13down.io  
 :orange_book: Fun fact: You won't find me on social media, I opted out.  
