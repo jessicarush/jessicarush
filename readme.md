@@ -3,10 +3,10 @@
 :bust_in_silhouette: Current role: Full-Stack Developer at 13 Down Software  
 :star: Current project: Missionloops  
 :seedling: Currently learning: something new every day  
-:round_pushpin: Next up: data visualization  
-:space_invader: In my free time: I don't often code, for me it's important to pursue a wide variety of interests and activities.  
+:round_pushpin: Next up: testing (unit, e2e, snapshot)
+:space_invader: In my free time: I don't often code, I like to pursue a wide variety of interests and activities.  
 :envelope: How to reach me: jessica@13down.io  
-:orange_book: Fun fact: You won't find me on social media, I opted out very early.  
+:orange_book: Fun fact: You won't find me on social media (I read the terms of service once).  
 
 -----
 
